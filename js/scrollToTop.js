@@ -1,5 +1,3 @@
-
-
 const scrollToTop = () => {
     const topBtn = document.querySelector('#scrollToTopButton')
 
